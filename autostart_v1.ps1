@@ -3,7 +3,7 @@
 
 # Attaching VHD drive and bitlock unlocking 
 # Path to VHD drive
-$UserVHDPath = "$($env:USERPROFILE)\Desktop\vhd_test.vhd"
+$UserVHDPath = "$($env:USERPROFILE)\Desktop\vhdove.vhd"
 # Check if vhd file exists
 $VHDExists = Test-Path -Path $UserVHDPath
 
