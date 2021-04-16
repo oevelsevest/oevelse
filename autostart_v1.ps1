@@ -47,10 +47,10 @@ $UserAddPath = "$($env:USERPROFILE)\Desktop\"
 $urls = @("https://www.youtube.com/watch?v=PaXTSFKQR3Y","https://www.onedrive.com/", "https://www.dropbox.com")
 
 $TextFile1 = @("Kode1: dke53Mk#!d98HF"," ", "Kode2: sts171287", " ", "https://www.dropbox.com/shared/viborgmappen")
-$TextFile2 = @("Laske 5k senest 1/4"," ", "Bongo 20g", " ", "Lulu 4 hvide")
+$TextFile2 = @("http://sextortion.rapeweb.ru"," ", "fD3rets!1403", " ", "Delt billeder af:", " ", "Louise", "Anne", "Kimmi", "Sofie", "Stine")
 $TextFile3 = "Bitlocker Recovery Key: 605440-445907-441859-019305-449163-286264-036322-660407"
 $File1 = "koder_pigelisten.txt"
-$File2 = "skylder.txt"
+$File2 = "rapeweb.txt"
 $File3 = "bitlocker_recovery.txt"
 
 $VCPath = "C:\Program Files\VeraCrypt\"
